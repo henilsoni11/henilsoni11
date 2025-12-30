@@ -1,4 +1,4 @@
-# 💫 About Me:
+# \ 💫 About Me:
 I'm currently studying b tech in CSE from new lj insititute of technology and education .<br>I develop knowledge in data structure ,database management system<br>and  advanced mathematics.
 
 
